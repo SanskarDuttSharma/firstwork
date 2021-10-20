@@ -1,1 +1,3 @@
-# firstwork
+## firstwork
+
+`Repo is for begineers` 
